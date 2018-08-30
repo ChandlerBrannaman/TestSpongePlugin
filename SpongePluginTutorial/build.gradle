@@ -1,0 +1,11 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'com.dust2'
+version = '1.0-SNAPSHOT'
+description = 'Quick tutorial plugin'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:7.0.0'
+}

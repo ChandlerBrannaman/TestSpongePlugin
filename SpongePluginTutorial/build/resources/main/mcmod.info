@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "tutorialplugin",
+        "name": "TutorialPlugin",
+        "version": "1.0",
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    },
+    {
+        "modid": "spongeplugintutorial",
+        "name": "SpongePluginTutorial",
+        "version": "1.0-SNAPSHOT",
+        "description": "Quick tutorial plugin"
+    }
+]
